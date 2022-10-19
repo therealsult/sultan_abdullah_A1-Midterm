@@ -1,2 +1,2 @@
-# sultan_abdullah_A1-Midterm
+# Sultan_Abdullah_A1-Midterm
 LG vs Samsung
