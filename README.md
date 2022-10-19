@@ -15,9 +15,9 @@ LG vs Samsung
 Each member must choose one side and make a t paragraph argument and add an image of their chosen side.
 
 ## Contributing
-therealsult - Sultan Abdullah.
+therealsult - Sultan Abdullah
 
-greattgrate1234 - Sultan Abdullah.
+greattgrate1234 - Sultan Abdullah
 
 
 ## History
