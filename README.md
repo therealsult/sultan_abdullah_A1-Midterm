@@ -12,7 +12,7 @@ LG vs Samsung
 
 ## Usage
 
-Each member must choose one side and make a t paragraph argument and add an image of their chosen side.
+Each member must choose one side, write one paragraph argument and add an image of their chosen side.
 
 ## Contributing
 therealsult - Sultan Abdullah
