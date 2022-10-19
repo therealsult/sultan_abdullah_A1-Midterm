@@ -4,7 +4,7 @@
 
 # Sultan_Abdullah_A1-Midterm
 
-TODO: Write a project description
+MMED-1054-(01-02)-22F Midterm. Find PDF file in FOL contents section, follow instructions, complete sections and submit.
 
 ## Installation
 
